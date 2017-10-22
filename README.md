@@ -5,15 +5,19 @@ Owing to my interest in removed content in games, I would like to search and dis
 The interesting thing about the question is not strictly whether more content is lost, but whether or not it is a good thing. Agile works on an iterative philosophy, promoting fast creation of content in short, perhaps risky and innovative sprints; with the idea that risk is reduced over time as the final vision of the product is formed. Does it work? Is it in a good time span?
 
 ## Research proposal #2: Maximising and managing collaborative creativity in an agile workflow for game development
-Agile development strongly promotes iteration, implying a bigger potential for experimentation. However, evidence suggests that further into the life cycle of a game, as its vision becomes more clearly defined and the deadline approaches, creativity goes to the back-burner, much as it does in more traditional waterfall workflows (though much sooner, during the planning phases). It calls into question whether a large-scale project would better benefit from a well-planned pre-production stage, followed by a fast rigid development phase--rather than the slow, iterative early development stage which will drive the ever-changing product throughout. However, with game development being an extremely risk-filled endeavor, and with it being well-established that games will change according to what is most preferred amongst players (as dictated by playtesting), is Agile development a slower but more effective solution?
-## Research proposal #3: Managing creative differences, parallel construction, and blocking in roleless agile development
-## Research proposal #4: How to select individual roles, and the strengths and weaknesses of specific roles in agile development
-## Research proposal #5: How to cope with being surrounded by programmers smarter than you in an agile development environment
-Unfortunately, competitive thinking takes a grip in the everyday life of terrible programmers, much as they do with normal people and also artists. This sadly can override communicative thinking, which is also not plentiful to begin with, and this creates issues for game development teams where it's vital that creative and technical direction are coordinated clearly through communication. However, with agile development forcing the programmers to stand up and commit to the best of their personal ability, and talk to other human beings and also programmers, there is much potential for forcibly improved communication. How does this compare to the traditional waterfall method wherein terrible programmers are confined to a safe place where their code can destroy the project subtly in the background, and experienced programmers experience regular sadness from being too good to tolerate it? Is it possible to make programmers talk, instead of violently hacking each others' hypothetical Facebook accounts? What benefits does agile development bring in a hostile environment of memory leaks and cache misses?
-## Research proposal #6: How agile philosophy can benefit personal learning in an educational environment, and comparison with other development methodologies
+Agile development strongly promotes iteration, implying a bigger potential for experimentation. However, evidence suggests that further into the life cycle of a game, as its vision becomes more clearly defined and the deadline approaches, creativity goes to the back-burner, much as it does in more traditional waterfall workflows (though much sooner, during the planning phases). It calls into question how long the benefits of agile development last, and whether it attempts, perhaps haphazardly, to act as a mashup of the planning and development stages.  
+
+Would a large-scale project would better benefit from a well-planned pre-production stage, followed by a fast rigid development phase--rather than the slow, iterative early development stage which will drive the ever-changing product throughout? Or with game development being an extremely risk-filled endeavor, and with it being well-established that games will change according to what is most preferred amongst players (as dictated by playtesting), is Agile development a slower but more effective solution?
+## Research proposal #3: Role-setting and role-sharing in an agile development environment: free-for-all work and its pros and cons
+One of the features of the agile workflow, particularly scrum task boards, is that developers will choose their own work, seemingly in a free-for-all manner. This essay addresses the challenges and solutions of managing roles in a roleless agile environment, wherein different developers of various skills and confidence must all decide who takes which tasks. How does this compare to a more traditional leader-oriented work flow?
+## Research proposal #4: How agile philosophy can benefit personal learning in an educational environment, and comparison with other development methodologies
 Does the iterative development promote personal learning in technical sense? How about communication?
-## Research proposal #7: How to manage priorities, skills and communication in a roleless Agile-oriented team environment
+## Research proposal #5: How to manage priorities, skills and communication in a roleless Agile-oriented team environment
 A roleless game development environment--one where everyone has their strengths, with none fully recognised yet.
+## Research proposal #6: To the Same Level - How to make creative decisions in a largely leaderless agile environment?
+Agile philosophy has shown many strengths in general application programming through its "Customer collaboration" clause. Particularly, the contractor makes a request, and the team aim to satisfy it through a hypothetical user's perspective. However, game development is a creative and therefore very subjective endeavour. Agile philosophy makes no reference to 'fun and aesthetics over contractual obligation', yet making a fun and interesting game is usually high on a development team's priority list. Therefore, when a contractor wants a creative and fun product, it is the development team's job to make a vast swathe of subjective creative decisions to achieve it. This is no issue with a creative leader--but what about one without?  
+
+This essay will explore the issue of creative subjectivity in a leaderless agile environment, how to settle on creative visions where the user story heavily depends on the user, and the positive effects of teambuilding and playtesting.
 
 # Proposals already taken (notes)
 Scott: Sprint duration  
@@ -21,42 +25,42 @@ Mango: Scaling up
 Tomas: Card games on agile philosophy?  
 
 # Academic sources
-**The Agile manifesto, design thinking and systems engineering**
-http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7934765/
+**The Agile manifesto, design thinking and systems engineering**  
+http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7934765/  
 Chosen for: Descriptive insight into the different methods of development workflow, particularly Agile
-*"Similar to their application to software development, agile techniques are most appropriate for programs and projects where the level of uncertainty is high."*
-*"It is clear that traditional systems engineering processes and methods can be enablers for the successful development of complex systems; there are numerous examples of success over the last half-century. But do these specific approaches stifle, or enable, innovation? What are the impacts of different application approaches?"*
+*"Similar to their application to software development, agile techniques are most appropriate for programs and projects where the level of uncertainty is high."*  
+*"It is clear that traditional systems engineering processes and methods can be enablers for the successful development of complex systems; there are numerous examples of success over the last half-century. But do these specific approaches stifle, or enable, innovation? What are the impacts of different application approaches?"*  
 
-**What concerns game developers? A study on game development processes, sustainability and metrics**
-http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7968010/
+**What concerns game developers? A study on game development processes, sustainability and metrics**  
+http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7968010/  
 Chosen for: Critical insight into game development processes, and applicability in a creative context.
-* "In any case, there are essential differences between the game development and software development as detailed by [2]."
+* "In any case, there are essential differences between the game development and software development as detailed by [2]."  
 
-**What went wrong? A survey of problems in game development**
-https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1486521&CFID=997640959&CFTOKEN=28081807
-Chosen for: Insight into the biggest issues occuring during game development, which could be measured against the rationale of the agile philosophy.
+**What went wrong? A survey of problems in game development**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1486521&CFID=997640959&CFTOKEN=28081807  
+Chosen for: Insight into the biggest issues occuring during game development, which could be measured against the rationale of the agile philosophy.  
 
-**Engine - Cooperative Game Modelling (ECGM): Bridge Model-Driven Game Development and Game Engine Tool-chains**
-https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=3001779&CFID=997640959&CFTOKEN=28081807
-Chosen for: Analysis of a competing development methodology
+**Engine - Cooperative Game Modelling (ECGM): Bridge Model-Driven Game Development and Game Engine Tool-chains**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=3001779&CFID=997640959&CFTOKEN=28081807  
+Chosen for: Analysis of a competing development methodology  
 
-**From Front-End to Back-End and Everything In-Between: Work Practice in Game Development**
-https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2793131&CFID=997640959&CFTOKEN=28081807
-Chosen for: Insight into the choice of workflow by various companies of varying sizes, budgets etc
+**From Front-End to Back-End and Everything In-Between: Work Practice in Game Development**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2793131&CFID=997640959&CFTOKEN=28081807  
+Chosen for: Insight into the choice of workflow by various companies of varying sizes, budgets etc  
 
-**Developers' perspectives on iteration in game development**
-https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2818298&CFID=997640959&CFTOKEN=28081807
-Chosen for: Insight into iterative development--a fundamental factor in the agile philosophy
+**Developers' perspectives on iteration in game development**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2818298&CFID=997640959&CFTOKEN=28081807  
+Chosen for: Insight into iterative development--a fundamental factor in the agile philosophy  
 
-**Are the old days gone?: A survey on actual software engineering processes in video game industry**
-https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2896960&CFID=997640959&CFTOKEN=28081807
+**Are the old days gone?: A survey on actual software engineering processes in video game industry**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2896960&CFID=997640959&CFTOKEN=28081807  
 
-**Collaboration in serious game development: a case study**
-https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1496993&CFID=997640959&CFTOKEN=28081807
+**Collaboration in serious game development: a case study**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1496993&CFID=997640959&CFTOKEN=28081807  
 Chosen for: Generalistic detailed insight into collaboration in a team environment with particular socially-oriented examples, including voice recordings, demonstrating differences in roles, attitudes and creative conflict. Relevant to the question of agile development's applicability in creative development.
 
-**Software engineering senior design course: experiences with agile game development in a capstone project**
-https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1984679&CFID=997640959&CFTOKEN=28081807
+**Software engineering senior design course: experiences with agile game development in a capstone project**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1984679&CFID=997640959&CFTOKEN=28081807  
 Chosen for: Insight into pitfalls of a practical Agile-focused game development assignment
 
 # Nonacademic sources
