@@ -27,13 +27,13 @@ Tomas: Card games on agile philosophy?
 # Academic sources
 **The Agile manifesto, design thinking and systems engineering**  
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7934765/  
-Chosen for: Descriptive insight into the different methods of development workflow, particularly Agile
+Chosen for: Descriptive insight into the different methods of development workflow, particularly Agile  
 *"Similar to their application to software development, agile techniques are most appropriate for programs and projects where the level of uncertainty is high."*  
 *"It is clear that traditional systems engineering processes and methods can be enablers for the successful development of complex systems; there are numerous examples of success over the last half-century. But do these specific approaches stifle, or enable, innovation? What are the impacts of different application approaches?"*  
 
 **What concerns game developers? A study on game development processes, sustainability and metrics**  
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7968010/  
-Chosen for: Critical insight into game development processes, and applicability in a creative context.
+Chosen for: Critical insight into game development processes, and applicability in a creative context.  
 * "In any case, there are essential differences between the game development and software development as detailed by [2]."  
 
 **What went wrong? A survey of problems in game development**  
