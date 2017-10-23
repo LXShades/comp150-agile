@@ -1,5 +1,6 @@
 # Final proposal
-...  
+## Question: How can agile philosophy benefit personal learning in a roleless creative game-development context?
+By nature of iterative development, agile philosophy arguably promotes learning through adaptivity to change. This paper will explore how the agile philosophy may benefit personal development and learning in a game development context, with comparison to other workflows popular in the creative tech industries (including iterative). It will also attempt to address various resulting factors, such as development speed, quality of the final product, education through playtesting and the personal relationships promoted through the agile methodology.
 
 # Academic Sources
 P. Trivedi and A. Sharma, "A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation," in 2013 2nd International Conference on Information Management in the Knowledge Economy, Chandigarh, India, 2013, pp.188-194.  
@@ -13,6 +14,11 @@ F. Petrillo et. al., "Are the old days gone?: a survey on actual software engine
 M. Q. Tran and R. Biddle, "Collaboration in serious game development: a case study," Future Play '08 Proceedings of the 2008 Conference on Future Play, Toronto, ON, Canada, 2008, pp.49-56  
 T. Smith et. al., "Software engineering senior design course: experiences with agile game development in a capstone project," GAS '11 Proceedings of the 1st International Workshop on Games and Software Engineering, Waikiki, Honolulu, HI, USA, 2011, pp.9-12  
 
+
+
+
+
+# Remaining sections are notes to be immediately moved ----
 # Proposals
 ## Research Proposal #1: How should agile teams manage cutting or replacing content in games
 Owing to my interest in removed content in games, I would like to search and discover the effects of the agile philosophy on removed or replaced content--whether it results in more or less content being cut or replaced in games, compared to e.g. a waterfall approach. I aim to discover the positive and negative impacts of this: if it results in a more cut content, is the end result an improvement? If not, does more content get made, and is it of a good quality? How does it affect the time span of game development, and does its psychological impact on the developers keep work fresh and inspired compared to other approaches?
