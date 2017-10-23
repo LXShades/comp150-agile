@@ -1,3 +1,18 @@
+# Final proposal
+...  
+
+# Academic Sources
+P. Trivedi and A. Sharma, "A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation," in 2013 2nd International Conference on Information Management in the Knowledge Economy, Chandigarh, India, 2013, pp.188-194.  
+M. A. Garrison Darrin and W. S. Devereux, "The Agile Manifesto, design thinking and systems engineering," in Systems Conference (SysCon), 2017 Annual IEEE International, Montreal, QC, Canada, 2017, pp.1-5.  
+J. Kasurinen et. al., "What Concerns Game Developers? A Study on Game Development Processes, Sustainability and Metrics," in Emerging Trends in Software Metrics (WETSoM), 2017 IEEE/ACM 8th Workshop on Emerging Trends in Software Metrics (WETSoM), Buenos Aires, Argentina, 2017, pp.15-21.  
+F. Petrillo et. al., "What went wrong? A survey of problems in game development," in Computers in Entertainment (CIE) - SPECIAL ISSUE: Media Arts and Games CIE Homepage archive, vol.7, no.1, Feb, 2009  
+M. Zhu et. al., "Engine- Cooperative Game Modeling (ECGM): Bridge Model-Driven Game Development and Game Engine Tool-chains," in ACE '16 Proceedings of the 13th International Conference on Advances in Computer Entertainment Technology, Nov 2016  
+B. Koleva et. al., "From Front-End to Back-End and Everything In-Between: Work Practice in Game Development," in CHI PLAY '15 Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play, pp.141-150, Oct 2015  
+A. Kultima, "Developers' perspectives on iteration in game development," in AcademicMindTrek '15 Proceedings of the 19th International Academic Mindtrek Conference, Tampere, Finland, 2015, pp.26-32  
+F. Petrillo et. al., "Are the old days gone?: a survey on actual software engineering processes in video game industry," in GAS '16 Proceedings of the 5th International Workshop on Games and Software Engineering, Austin, Texas, USA, 2016, pp.22-28  
+M. Q. Tran and R. Biddle, "Collaboration in serious game development: a case study," Future Play '08 Proceedings of the 2008 Conference on Future Play, Toronto, ON, Canada, 2008, pp.49-56  
+T. Smith et. al., "Software engineering senior design course: experiences with agile game development in a capstone project," GAS '11 Proceedings of the 1st International Workshop on Games and Software Engineering, Waikiki, Honolulu, HI, USA, 2011, pp.9-12  
+
 # Proposals
 ## Research Proposal #1: How should agile teams manage cutting or replacing content in games
 Owing to my interest in removed content in games, I would like to search and discover the effects of the agile philosophy on removed or replaced content--whether it results in more or less content being cut or replaced in games, compared to e.g. a waterfall approach. I aim to discover the positive and negative impacts of this: if it results in a more cut content, is the end result an improvement? If not, does more content get made, and is it of a good quality? How does it affect the time span of game development, and does its psychological impact on the developers keep work fresh and inspired compared to other approaches?
@@ -25,6 +40,7 @@ Mango: Scaling up
 Tomas: Card games on agile philosophy?  
 
 # Academic sources
+**Conference citation style: J. K. Author, “Title of paper,” in Unabbreviated Name of Conf., City of Conf., Abbrev. State (if given), year, pp. xxx-xxx.**
 **The Agile manifesto, design thinking and systems engineering**  
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7934765/  
 Chosen for: Descriptive insight into the different methods of development workflow, particularly Agile  
