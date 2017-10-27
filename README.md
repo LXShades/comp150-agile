@@ -75,10 +75,10 @@ Chosen for: Critical insight into game development processes, and applicability 
 *According to the data, 61% of respondents do not follow any systematic development methodology.* - Interesting  
 *According to our survey results, the game development differ from software development in a sense that the game development processes tend to be unstructured, or follow some form of agile development.*  (**conclusion**)
 
-
 **What went wrong? A survey of problems in game development**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1486521&CFID=997640959&CFTOKEN=28081807  
 Chosen for: Insight into the biggest issues occuring during game development, which could be measured against the rationale of the agile philosophy.  
+*According to Jones, finding and correcting bugs are the most time consuming and expensive aspects of software development, especially for large systems.* - Link this to the daily stand-up model enabling peers to discuss issues.
 
 **Engine - Cooperative Game Modelling (ECGM): Bridge Model-Driven Game Development and Game Engine Tool-chains**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=3001779&CFID=997640959&CFTOKEN=28081807  
