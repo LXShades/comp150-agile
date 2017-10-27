@@ -52,10 +52,17 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7934765/
 Chosen for: Descriptive insight into the different methods of development workflow, particularly Agile  
 *"Similar to their application to software development, agile techniques are most appropriate for programs and projects where the level of uncertainty is high."*  
 *"It is clear that traditional systems engineering processes and methods can be enablers for the successful development of complex systems; there are numerous examples of success over the last half-century. But do these specific approaches stifle, or enable, innovation? What are the impacts of different application approaches?"*  
+*And lastly, an agile system has the property of being able to change, or to be changed, rapidly and cost effectively.*
+*"Responding to change over following a plan."* Design philosophy promotes product improvement - link to self-improvement?  
+*"Individuals and interactions over process and tools"* Design philosophy supports learning  
+*A key of Design Thinking is to start with user-oriented inputs so the designers can “empathize” with, and better understand the experience of, the user for whom one is designing. "*  
+*While this type of development cadence may not be ideal or applicable for every program, the knowledge gained by these approaches certainly could be helpful to the systems engineer in the event significant problems are found*  
 
 **A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation**  
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6915096/  
 Chosen for: Detailed, scientific/mathematical analysis comparing work performance and strategies across the different development workflows including Agile.  
+*The clients used to tell their requirement [3], [4] manually to the project manager and they directly fixed code.* - This emphasises rote learning, not creative learning  
+Possibly **reject this paper** as itis hard to understand and takes an approach which, while systematic, seems largely unproven and too focused on maximising productivity than creativity.  
 
 **What concerns game developers? A study on game development processes, sustainability and metrics**  
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7968010/  
