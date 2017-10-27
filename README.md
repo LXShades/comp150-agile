@@ -68,6 +68,13 @@ Possibly **reject this paper** as itis hard to understand and takes an approach 
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7968010/  
 Chosen for: Critical insight into game development processes, and applicability in a creative context.  
 * "In any case, there are essential differences between the game development and software development as detailed by [2]."  
+*In addition, the game development processes usually involve a highly iterative creative process, as the user requirements are rarely provided* - A little off-topic, but interesting and valid that user stories may be replaced with hypothetical player stories  
+*The overall research objective of the study was to find out “What are the main product development trends among the game developers?”*  
+*As a result, the game development work is often unpredictable and highly iterative, which makes the agile methodologies seem suitable models for adoption.*  
+*On the other general trends collected from the survey, the three most common requirements for the skills for a new employee in the organization were 1) ability to learn while working ...*  Ohh some saucy research right here! Resauce!
+*According to the data, 61% of respondents do not follow any systematic development methodology.* - Interesting  
+*According to our survey results, the game development differ from software development in a sense that the game development processes tend to be unstructured, or follow some form of agile development.*  (**conclusion**)
+
 
 **What went wrong? A survey of problems in game development**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1486521&CFID=997640959&CFTOKEN=28081807  
