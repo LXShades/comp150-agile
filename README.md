@@ -46,7 +46,7 @@ Mango: Scaling up
 Tomas: Card games on agile philosophy?  
 
 # Academic sources
-**Conference citation style: J. K. Author, “Title of paper,” in Unabbreviated Name of Conf., City of Conf., Abbrev. State (if given), year, pp. xxx-xxx.**
+**Conference citation style: J. K. Author, “Title of paper,” in Unabbreviated Name of Conf., City of Conf., Abbrev. State (if given), year, pp. xxx-xxx.**  
 **The Agile manifesto, design thinking and systems engineering**  
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7934765/  
 Chosen for: Descriptive insight into the different methods of development workflow, particularly Agile  
