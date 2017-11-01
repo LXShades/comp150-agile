@@ -1,5 +1,12 @@
 # Final proposal
-## Question: How can agile philosophy benefit personal learning in a roleless creative game-development context?
+## Question: How can agile philosophy maximise personal learning in a roleless creative game-development context?
+*As quoted by [Mr. Quote], iteration is a highly respected concept in the game industry, owing to the constant changing of approaches in pursuit of the highly dynamic and subjective goal of making a 'fun' game. [quote 'game never comes out the same']. This typically requires the adoption of a workflow that most suits iteration, such as the agile workflow, which places [derp] over [derpderp].  
+*In universities today, such as Falmouth (which btw is pretty great), agile development has been adopted as a key part of the practical game production assignments. But being an educational institution comes with the interesting task of not only producing games, but learning how to do it, somehow simultaneously. This raised my particular interest: should agile be chosen for not only production purposes, but for individual learning as well?  
+*To find an answer, this study chooses to look beyond the scope of university. As opposed to analysing the effects of agile evelopment in a specifically educational institute, this marginally noobish essay aims to draw links between existing practices and experiences in real-life studios, with how agile development (or more broadly, iteration) is applied, with the question of how they could maximise the learning experience for the individual team members.*  
+
+
+
+
 By nature of iterative development, agile philosophy arguably promotes learning through adaptivity to change. This paper will explore how the agile philosophy may benefit personal development and learning in a game development context, with comparison to other workflows popular in the creative tech industries (including iterative). It will also attempt to address various resulting factors, such as development speed, quality of the final product, education through playtesting and the personal relationships promoted through the agile methodology.
 
 # Academic Sources
@@ -114,6 +121,12 @@ Most of article irrelevant but the above quote is interesting.
 **Collaboration in serious game development: a case study**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1496993&CFID=997640959&CFTOKEN=28081807  
 Chosen for: Generalistic detailed insight into collaboration in a team environment with particular socially-oriented examples, including voice recordings, demonstrating differences in roles, attitudes and creative conflict. Relevant to the question of agile development's applicability in creative development.
+*The   team   develops   serious games on the Flash platform [9]* (<-- context)  
+*The   social   environment   is   friendly and   team   members   are   committed  to  learning from  each  other.* <-- Very important! Because it very much agrees with my standpoint! Therefore important.  
+*Each team member needs to be aware of what others are doing. Without situational awareness, it would be  very  difficult  to  work  effectively  since  the  work  of  one  member  often  depends  on  the  completion  of  some  other  work  by  another member* - This study was conducted in an environment where team situational awareness was maximises--Agile accomodates this with standups.  
+*Teams  with  high  role  diversity  benefit  more  from  collaboration.  High role  diversity is  a  result  of  having  many  specialists.*
+*We  refer  to  this  as  working-in-pairs. Troubleshooting issues are easier to solve when working-in-pairs,  as  seen  in  this  exchange  between  the  GP  and  Lead Artist (LA): *
+*The  game  product  is  development  iteratively.  The  game  concept  starts  vague,  but  becomes  increasingly  complex  and  refined  after  each  iteration  cycle.  Through  iterative  refinement,  the  game  is  transformed  and  built  from  small  pieces  and  these  pieces  are  integrated  opportunistically  (537,  584,  2351). *
 
 **Software engineering senior design course: experiences with agile game development in a capstone project**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1984679&CFID=997640959&CFTOKEN=28081807  
