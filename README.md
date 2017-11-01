@@ -124,18 +124,26 @@ Chosen for: Generalistic detailed insight into collaboration in a team environme
 *The   team   develops   serious games on the Flash platform [9]* (<-- context)  
 *The   social   environment   is   friendly and   team   members   are   committed  to  learning from  each  other.* <-- Very important! Because it very much agrees with my standpoint! Therefore important.  
 *Each team member needs to be aware of what others are doing. Without situational awareness, it would be  very  difficult  to  work  effectively  since  the  work  of  one  member  often  depends  on  the  completion  of  some  other  work  by  another member* - This study was conducted in an environment where team situational awareness was maximises--Agile accomodates this with standups.  
-*Teams  with  high  role  diversity  benefit  more  from  collaboration.  High role  diversity is  a  result  of  having  many  specialists.*
-*We  refer  to  this  as  working-in-pairs. Troubleshooting issues are easier to solve when working-in-pairs,  as  seen  in  this  exchange  between  the  GP  and  Lead Artist (LA): *
-*The  game  product  is  development  iteratively.  The  game  concept  starts  vague,  but  becomes  increasingly  complex  and  refined  after  each  iteration  cycle.  Through  iterative  refinement,  the  game  is  transformed  and  built  from  small  pieces  and  these  pieces  are  integrated  opportunistically  (537,  584,  2351). *
+*Teams  with  high  role  diversity  benefit  more  from  collaboration.  High role  diversity is  a  result  of  having  many  specialists.*  
+*We  refer  to  this  as  working-in-pairs. Troubleshooting issues are easier to solve when working-in-pairs,  as  seen  in  this  exchange  between  the  GP  and  Lead Artist (LA): *  
+*The  game  product  is  development  iteratively.  The  game  concept  starts  vague,  but  becomes  increasingly  complex  and  refined  after  each  iteration  cycle.  Through  iterative  refinement,  the  game  is  transformed  and  built  from  small  pieces  and  these  pieces  are  integrated  opportunistically  (537,  584,  2351). *  
+*The  team  also  employs  two  tactics  to  support  rapid  iteration  and  evaluation  cycles.  One  tactic  is  to  give  priority  to  the  visible  result.  The  game  has-to-look-good.* - Note how this might have a negative effect on learning by shifting the focus to the game  
+*They  have  an  understanding  that  the  product  should  be  fun,  educational  and  easy  to  play.  Being  in  agreement  about  the  higher  level  abstract  goals  allows  them  to  handle  disputes  and  move  forward  with  changes  more  easily.* - Note how this might have a positive effect on learning through a good attitude  
+*effective  collaboration  requires  a  team  that  respects each other’s contributions, communicates frequently and shares  a  similar  conceptual  model  of  the  product  and  goals.* - Agile?  
 
 **Software engineering senior design course: experiences with agile game development in a capstone project**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1984679&CFID=997640959&CFTOKEN=28081807  
+*Each  sprint  encompasses all of the typical stages for a small set of software features (e.g.   planning,  design,  implementation,  testing)* - Agile description  
+*For instance, when a technical problem popped up in Final Forecast, as long as four days could potentially pass before someone knowledgeable about the problem could meet with the team member in need.* - Pitfall of not meeting regularly  
+*We  saw  this  with  Final  Forecast;  students  spent  entire meetings discussing interesting or fun ideas to add into the game.  Most were infeasible under the time constraints, but merely by expressing them, they would inspire new ideas in others.*  
+*The ability to work cooperatively in a rapidly shifting team environment with people from different backgrounds and responsibilities on a successful project are highly desired skills for potential industry employers.*
 Chosen for: Insight into pitfalls of a practical Agile-focused game development assignment
 
 # Nonacademic sources
-**Beyond Scrum: Lean and Kanban -- Gamasutra on agile's weakness further on in the dev cycle**
+~~**Beyond Scrum: Lean and Kanban -- Gamasutra on agile's weakness further on in the dev cycle**~~
 https://www.gamasutra.com/view/feature/132241/beyond_scrum_lean_and_kanban_for_.php
 Chosen for: Insight into the weaknesses of agile further into development--perhaps this is relevant?
+Rejected because: Okay perhaps this isn't
 
 # Assignment goals
 * 15% Depth of insight into the agile philosophy (Agile manifesto, etc)
