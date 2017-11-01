@@ -58,11 +58,11 @@ Chosen for: Descriptive insight into the different methods of development workfl
 *A key of Design Thinking is to start with user-oriented inputs so the designers can “empathize” with, and better understand the experience of, the user for whom one is designing. "*  
 *While this type of development cadence may not be ideal or applicable for every program, the knowledge gained by these approaches certainly could be helpful to the systems engineer in the event significant problems are found*  
 
-**A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation**  
+~~**A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation**  ~~
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6915096/  
 Chosen for: Detailed, scientific/mathematical analysis comparing work performance and strategies across the different development workflows including Agile.  
+Rejected because: Paper is hard to interpret and understand, and takes an approach which, while thorough and systematic, seems to be based largely on specific unproven examples. Too focused on maximising productivity without concern for creativity.  
 *The clients used to tell their requirement [3], [4] manually to the project manager and they directly fixed code.* - This emphasises rote learning, not creative learning  
-Possibly **reject this paper** as itis hard to understand and takes an approach which, while systematic, seems largely unproven and too focused on maximising productivity than creativity.  
 
 **What concerns game developers? A study on game development processes, sustainability and metrics**  
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7968010/  
@@ -78,15 +78,23 @@ Chosen for: Critical insight into game development processes, and applicability 
 **What went wrong? A survey of problems in game development**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1486521&CFID=997640959&CFTOKEN=28081807  
 Chosen for: Insight into the biggest issues occuring during game development, which could be measured against the rationale of the agile philosophy.  
-*According to Jones, finding and correcting bugs are the most time consuming and expensive aspects of software development, especially for large systems.* - Link this to the daily stand-up model enabling peers to discuss issues.
+*According to Jones, finding and correcting bugs are the most time consuming and expensive aspects of software development, especially for large systems.* - Link this to the daily stand-up model enabling peers to discuss issues.  
 
-**Engine - Cooperative Game Modelling (ECGM): Bridge Model-Driven Game Development and Game Engine Tool-chains**  
+~~**Engine - Cooperative Game Modelling (ECGM): Bridge Model-Driven Game Development and Game Engine Tool-chains**  ~~
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=3001779&CFID=997640959&CFTOKEN=28081807  
-Chosen for: Analysis of a competing development methodology  
+Chosen for: Analysis of a competing development methodology
+Rejected because: Article is focused on technical development methodology rather than workflow.  
+*[...]which applies the Model-Driven Software Development (MDSD) method in the game development domain. This simplifies game development by reducing the gap between game design and implementation* - Overview  
 
 **From Front-End to Back-End and Everything In-Between: Work Practice in Game Development**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2793131&CFID=997640959&CFTOKEN=28081807  
 Chosen for: Insight into the choice of workflow by various companies of varying sizes, budgets etc  
+*They suggest that innovative game design can be supported by creating a culture of collaboration, with innovation being largely dependent on the quality of the interpersonal relationships within teams.*  
+*Critically the findings also  indicate  ways  in which  some  parts  of  the  workflow  are  not  currently  well-supported  by  existing  tools,  indicating  important  areas  for the future design of a range of possible tools.*  
+*The  descriptive  answers  were  organised  into  11  categories of  activity  which  revealed,  in  the  vast  majority  of  cases,  a similar production process, beginning with the elicitation of client requirements, followed by brainstorming and ideation activities   and   project   planning.*  
+*Perhaps   surprisingly,   only   9%   of respondents   said   they   worked   most   closely   with   their clients.*  - This could indicate a flaw in a 'leader' model wherein the students learn from a teacher; that the team work itself is largely segregated from the expectations of the commander figure  
+*Real-time  communication (face to face, video or phone) took place daily (44%) or hourly (44%) for the majority of respondents*  *The  answers mostly  address different  parts of  the  design  process,  but  two  responses -  building  a common  understanding  of  goals and  collaboration  over distance - were mentioned by multiple users *  
+
 
 **Developers' perspectives on iteration in game development**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2818298&CFID=997640959&CFTOKEN=28081807  
