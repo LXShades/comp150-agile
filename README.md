@@ -99,9 +99,17 @@ Chosen for: Insight into the choice of workflow by various companies of varying 
 **Developers' perspectives on iteration in game development**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2818298&CFID=997640959&CFTOKEN=28081807  
 Chosen for: Insight into iterative development--a fundamental factor in the agile philosophy  
+*For    her,    the development  of  a  game  is  cyclic  in  its  nature  repeating  phases  of idea    generation,    conceptualization,    testing    and    evaluation. Iteration is necessary for the designer’s work in order to act as “an advocate for the player”, as Fullerton puts it.*  
+*According  to Keith  [  11],  it  is  the  “practice  of  creating  an  initial  version  of something  (artwork,  code,  or  a  design),  examining  it,  and  then revising it until it’s sufficiently improved.” *  
+*Larman and Basili [20] discuss the multitude of IID (iterative and incremental development) models. Modern usage of the term (IID) is  not  about  just  revisiting  work  (rework),  but  also  evolutionary advancement*  
+*Furthermore,  the  perspective  of the designer  is  important  in  the study  of  iteration  in  design  work.  For  instance  Adams and  Atan [2 ]  concluded  in  their  study  of iterative  behavior  in  engineering student design processes that more skillful students conduct more iterations.*  
+*Some  interviewees  expressed  how  they  have  been  experimenting with different approaches and eventually found the iterative model the most  efficient. The  iterative process  was  also connected to quality:”[...]  this  kind  of  constant  iteration  with a  playable  version  helps to make the game better.” Interviewee 1C2*  - Game developers on iteration  
+
 
 **Are the old days gone?: A survey on actual software engineering processes in video game industry**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2896960&CFID=997640959&CFTOKEN=28081807  
+*Iterative prac-tices are increasing and are applied to at least 65% of projects in which 45% of this projects explicitly adopted Agile practices. However, waterfall process is still applied at least 30% of projects.*  
+Most of article irrelevant but the above quote is interesting.  
 
 **Collaboration in serious game development: a case study**  
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1496993&CFID=997640959&CFTOKEN=28081807  
