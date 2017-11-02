@@ -145,6 +145,11 @@ https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1067521&CFID=100129438
 Chosen for: Negatives of team work, and advice on improving learning in team environments.  
 *As a result of this pressure, and because they generally lacked any understanding of how to work well in groups, students selected their roles based on expediency or familiarity. This worked against the benefits of collaborative learning and learning new skills or concepts.* - Err I wonder if my paper accidentally becoming a critique of Falmouth's own teaching methods will cost marks  
 
+**Two peers are better than one: aggregating peer reviews for computing assignments is surprisingly accurate**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1531692&CFID=1001294386&CFTOKEN=14225624  
+Chosen for: Arguments for peer review and learning  
+*We also showed that students find reviews from other students with less experience to be most effective* - Amusing point
+
 # Nonacademic sources
 ~~**Beyond Scrum: Lean and Kanban -- Gamasutra on agile's weakness further on in the dev cycle**~~
 https://www.gamasutra.com/view/feature/132241/beyond_scrum_lean_and_kanban_for_.php
