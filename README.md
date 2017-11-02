@@ -25,8 +25,8 @@ T. Smith et. al., "Software engineering senior design course: experiences with a
 
 
 
-# Remaining sections are notes to be immediately moved ----
-# Proposals
+# Notes
+# Previous Proposals
 ## Research Proposal #1: How should agile teams manage cutting or replacing content in games
 Owing to my interest in removed content in games, I would like to search and discover the effects of the agile philosophy on removed or replaced content--whether it results in more or less content being cut or replaced in games, compared to e.g. a waterfall approach. I aim to discover the positive and negative impacts of this: if it results in a more cut content, is the end result an improvement? If not, does more content get made, and is it of a good quality? How does it affect the time span of game development, and does its psychological impact on the developers keep work fresh and inspired compared to other approaches?
 
@@ -65,7 +65,7 @@ Chosen for: Descriptive insight into the different methods of development workfl
 *A key of Design Thinking is to start with user-oriented inputs so the designers can “empathize” with, and better understand the experience of, the user for whom one is designing. "*  
 *While this type of development cadence may not be ideal or applicable for every program, the knowledge gained by these approaches certainly could be helpful to the systems engineer in the event significant problems are found*  
 
-~~**A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation**  ~~
+~~**A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation**~~
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6915096/  
 Chosen for: Detailed, scientific/mathematical analysis comparing work performance and strategies across the different development workflows including Agile.  
 Rejected because: Paper is hard to interpret and understand, and takes an approach which, while thorough and systematic, seems to be based largely on specific unproven examples. Too focused on maximising productivity without concern for creativity.  
@@ -136,7 +136,7 @@ https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1984679&CFID=997640959
 *Each  sprint  encompasses all of the typical stages for a small set of software features (e.g.   planning,  design,  implementation,  testing)* - Agile description  
 *For instance, when a technical problem popped up in Final Forecast, as long as four days could potentially pass before someone knowledgeable about the problem could meet with the team member in need.* - Pitfall of not meeting regularly  
 *We  saw  this  with  Final  Forecast;  students  spent  entire meetings discussing interesting or fun ideas to add into the game.  Most were infeasible under the time constraints, but merely by expressing them, they would inspire new ideas in others.*  
-*The ability to work cooperatively in a rapidly shifting team environment with people from different backgrounds and responsibilities on a successful project are highly desired skills for potential industry employers.*
+*The ability to work cooperatively in a rapidly shifting team environment with people from different backgrounds and responsibilities on a successful project are highly desired skills for potential industry employers.*  
 Chosen for: Insight into pitfalls of a practical Agile-focused game development assignment
 
 # Nonacademic sources
