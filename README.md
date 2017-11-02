@@ -104,7 +104,7 @@ Chosen for: Insight into the choice of workflow by various companies of varying 
 
 
 **Developers' perspectives on iteration in game development**  
-https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2818298&CFID=997640959&CFTOKEN=28081807  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2818298&CFID=997640959&CFTOKEN=28081807 [iteration]   
 Chosen for: Insight into iterative development--a fundamental factor in the agile philosophy  
 *For    her,    the development  of  a  game  is  cyclic  in  its  nature  repeating  phases  of idea    generation,    conceptualization,    testing    and    evaluation. Iteration is necessary for the designer’s work in order to act as “an advocate for the player”, as Fullerton puts it.*  
 *According  to Keith  [  11],  it  is  the  “practice  of  creating  an  initial  version  of something  (artwork,  code,  or  a  design),  examining  it,  and  then revising it until it’s sufficiently improved.” *  
@@ -138,6 +138,12 @@ https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1984679&CFID=997640959
 *We  saw  this  with  Final  Forecast;  students  spent  entire meetings discussing interesting or fun ideas to add into the game.  Most were infeasible under the time constraints, but merely by expressing them, they would inspire new ideas in others.*  
 *The ability to work cooperatively in a rapidly shifting team environment with people from different backgrounds and responsibilities on a successful project are highly desired skills for potential industry employers.*  
 Chosen for: Insight into pitfalls of a practical Agile-focused game development assignment
+
+**Why project courses sometimes widen the experience gap among students**  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=961618&CFID=1001294386&CFTOKEN=14225624 [group2003]  
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1067521&CFID=1001294386&CFTOKEN=14225624 [group2005] (follow up)  
+Chosen for: Negatives of team work, and advice on improving learning in team environments.  
+*As a result of this pressure, and because they generally lacked any understanding of how to work well in groups, students selected their roles based on expediency or familiarity. This worked against the benefits of collaborative learning and learning new skills or concepts.* - Err I wonder if my paper accidentally becoming a critique of Falmouth's own teaching methods will cost marks  
 
 # Nonacademic sources
 ~~**Beyond Scrum: Lean and Kanban -- Gamasutra on agile's weakness further on in the dev cycle**~~
