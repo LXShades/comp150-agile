@@ -65,7 +65,7 @@ Chosen for: Descriptive insight into the different methods of development workfl
 *A key of Design Thinking is to start with user-oriented inputs so the designers can “empathize” with, and better understand the experience of, the user for whom one is designing. "*  
 *While this type of development cadence may not be ideal or applicable for every program, the knowledge gained by these approaches certainly could be helpful to the systems engineer in the event significant problems are found*  
 
-~~**A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation**~~
+~~**A comparative study between iterative waterfall and incremental software development life cycle model for optimizing the resources using computer simulation**~~  
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6915096/  
 Chosen for: Detailed, scientific/mathematical analysis comparing work performance and strategies across the different development workflows including Agile.  
 Rejected because: Paper is hard to interpret and understand, and takes an approach which, while thorough and systematic, seems to be based largely on specific unproven examples. Too focused on maximising productivity without concern for creativity.  
