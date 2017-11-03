@@ -150,6 +150,12 @@ https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1531692&CFID=100129438
 Chosen for: Arguments for peer review and learning  
 *We also showed that students find reviews from other students with less experience to be most effective* - Amusing point
 
+**Motivation, Personality, and Development Within Embedded Social Contexts: An Overview of Self-Determination Theory**  
+https://www.researchgate.net/publication/287563281_Motivation_Personality_and_Development_Within_Embedded_Social_Contexts_An_Overview_of_Self-Determination_Theory  
+Chosen for: To help backup my made up theories on human psychology with impressively structured peer-reviewed journal quotes.  
+*We have posited that people require three specific psycho-logical nutriments for healthy functioning: They need to feel *competent* in netoriating their external and internal environments; they need to experience relatedness to other people and groups; and they need to feel *autonomy* or self-determination with respect to their own behaviors and lives*  
+
+
 # Nonacademic sources
 ~~**Beyond Scrum: Lean and Kanban -- Gamasutra on agile's weakness further on in the dev cycle**~~
 https://www.gamasutra.com/view/feature/132241/beyond_scrum_lean_and_kanban_for_.php
