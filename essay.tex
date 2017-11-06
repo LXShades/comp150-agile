@@ -1,45 +1,105 @@
-% Please do not change the document class
 \documentclass{scrartcl}
 
-% Please do not change these packages
 \usepackage[hidelinks]{hyperref}
 \usepackage[none]{hyphenat}
 \usepackage{setspace}
-\doublespace
+%\doublespace Plz no, I need to proofread this
 
-% You may add additional packages here
-\usepackage{amsmath}
-
-% Please include a clear, concise, and descriptive title
-\title{Your Title Here}
-
-% Please do not change the subtitle
+\title{How can agile philosophy maximise learning in an academic game development project?}
 \subtitle{COMP150 - Agile Development Practice}
-
-% Please put your student number in the author field
-\author{DO NOT WRITE YOUR NAME\\Put your student number (on your ID card) here}
+\date{2017-11-16}
+\author{1707981}
 
 \begin{document}
-
 \maketitle
+\pagenumbering{arabic}
 
-\abstract{Please include an abstract of at most 100 words (these do not count towards your word count).}
+\abstract{Today game-centric courses promise to equip students with the skills to develop videogames. These extend beyond the specialist skills traditionally taught by institutions--such as art and programming--into territories that are typically learned through the work environment, including communication and team management. Practical application of those skills is established with a team of students, a project and a workflow; but workflows are designed for the product, and it is unclear how it can be used to effectively teach the specialist skills. This essay specifically explores the agile philosophy, and how it can be adapted to maximise the learning of these skills.}
 
 \section{Introduction}
+The key principle in education is learning. A key principle in the Agile philosophy is iteration \cite{agile}. Iteration can be described as a continous improvement based on reflection of previous results. \cite{iteration} However, iteration in the context of agile development is focused on the goal of producing an ideal product in an ideal timeframe, stating that working software is the primary measure of progress. \cite{manifesto}, contrast to particularly learning how to do it well and with good practices.
+% Agile, what it is and why it isn't education
 
-Write your introduction here. A brief introduction is recommended, which should outline key details of the chosen topic and the reviewed papers, motivate the work, and provide a roadmap of key points to the reader. The motivation is quite important here, as essays should have a contribution (i.e., what is the point of the essay, and what does the reader take away from the essay) and the link between the motivation (in the introduction) and the contribution (in the conclusion) should be made clear.
+While the agile manifesto is promising overall with regard to production and teamwork, this study is interested in discovering how learning about production can best be incorporated into production itself. Its goal is to explore potential methods and techniques to improve opportunities to learn effectively during agile game production. Specifically, we will be critically approaching these three questions:
+% What we're exploring today, kids!
 
-\section{Your section title here}
+\begin{itemize}
+\item[*]What benefits does Agile, ideally, offer to learners?
+\item[*]What compromising issues arise in learning through group project work?
+\item[*]How can, or should the Agile workflow be improved to further promote the learning of new skills?
+\end{itemize}
 
-Write the main body of your essay here. Add more sections if appropriate. You may choose to write about each of your three papers in its own section, or you may choose a different structure. Either way, remember that you are being assessed on technical insight and analysis: it is not enough to merely summarise the contents of the three papers. You must demonstrate the ability to make inferences beyond what is written in the papers, and to draw the three papers together into a single coherent narrative.
+% ==================== ~200 WORDS~ ======================
 
-Your essay must make a clear recommendation, in terms of which of the three techniques you have reviewed is the best according to whichever metric or metrics you feel is most appropriate. You must justify your choice, backing it up with empirical evidence. However remember that an academic essay is not a murder mystery: you should already have briefly discussed your recommendation in the introduction and in other parts of the essay. Do not save it for a grand reveal at the end.
+\section{Agile}
+Agile software development is summarised by the following philosophies as described in the Agile manifesto:
+
+\begin{itemize}
+\item[1]\textit{Individuals and interactions over process and tools},
+\item[2]\textit{Working software over comprehensive documentation},
+\item[3]\textit{Customer collaboration over contract negotiation}
+\item[4]\textit{Responding to change over following a plan} \cite{agile}
+\end{itemize}
+% Obligatory Agile spewing
+
+These principles are driven by one of various workflow frameworks, such as Scrum, wherein a team will stand and meet up at a particular time in a working day and state what they have done, will do, and what may block them from doing it. Tasks themselves are written in on a task board by the Scrum Master in an order of priority, and the team members select the task they are prepared to do. By the end of the meeting all members are aware of everyone's roles for the day, this keeps everyone on track and motivated etc [CITE]
+% Scrum, motivation, communication etc
+
+Ideally, this links well with the concept of education. Allowing team members to choose their own tasks promotes autonomy, which is a vital source of motivation. \cite{motivation} By prioritising interactions and response to change, particularly as games are rarely expected to go as planned[CITE], peer learning is promoted between team members. Teaching and learning in small [amounts] amongst peers is a measurable practice in the game industry, where openness to learning and willingness to help others \cite{collaboration} are vital elements to a team member's personality. Types of peer learning include pair programming, often applied in educational institutions[CITE] and industry itself[CITE], wherein one programmer takes the keyboard and another observes, offering tips and pointing out potential errors, before the two swap later on.
+% Autonomy and learning, etc
+
+Iteration by nature is a highly respected concept in the game industry, owing to the fun factor, playtesting, and reviews continuously impacting the direction the project takes. Some even consider the iterative process to be enjoyable\cite{iteration}.
+% Iteration in industry
+
+Agile offers many benefits to group work, but not without its pitfalls. However it is arguable that many of the issues are common far beyond game development, and that they would be further aggravated by the adoption of a more traditional waterfall workflow.
+% Closing for this section--cut?
+
+Teamwork, communication, collaboration etc Masters of these skills are highly desired by game and software industry employers.[cite]
+
+% ===================== ~350 WORDS~ ====================
+
+\section{Group work}
+A paper by L. J. Barker and Kathy Garvin-Doxes from 2003 \cite{group2003} highlighted a startling concern that group projects, despite their practicality, can in fact inhibit personal learning. In particular, being in a team of more experienced developers can lessen some inexperienced students' own desire to contribute. In some cases, the burden of delivering an equal standard of work can sour motivation, and students drop out entirely \cite{group2003}.
+% About the negatives of group work
+
+Furthermore, in efforts to deliver high quality work, many students prefer to work in their "comfort zone", rather than expanding into areas they have yet to learn.\cite{group2003} \cite{group2005} The lack of learning is contrary to the interests of an educational institution, and in fact the game industry itself, where learning is considered a vital skill \cite{collaboration}, \cite{devstudy}.
+% More about the negatives of group work
+
+These problems are centred not strictly on the workflow, but psychology and motivation. A study detailed in \cite{motivation} observed that students who were encouraged to learn by an extrinsic goal, such as money, learned less than those who were encouraged with an intrinsic goal, such as understanding themselves better. A high quality game is an extrinsic goal, which may risk diluting the focus of learning and teaching the skills, and redirecting it to the game's quality. This puts pressure on students, especially the inexperienced, and a common issue in the game industry manifests--unrealistic scope \cite{problems}, wherein a project is too demanding for a team to reasonably deliver on time.
+% Reason behind the problems, slight game industry mention
+
+To combat these issues, perhaps the biggest focus should be on improving motivation. In a hypothetical Scrum environment, awareness of the intrinsic goals, as described in \cite{motivation}, could be applied by adding a 'what did I learn yesterday' part to the stand-ups. This may perhaps already overlap too much with 'what did I create yesterday', but simply raising the intrinsic goal itself could result in the same positive results as it did in the study \cite{motivation}. It is in fact well-documented that groups who reflect on their learning process, rather than just the task, are typically more successful in their endeavours \cite{effectivegroups}. This extra awareness may also spark voluntary discussion among peers about the newly learned material in specific, and bring to attention others who are also interested in learning it--providing the benefits of peer learning and autonomy at the same time.
+% How to improve motivation and success
+
+The issue of less inexperienced team members finding their place in the project still requires additional attention. The application of additional individual-oriented support among peers, such as pair programming, would help to emphasise the essential goal of sharing knowledge, and troubleshoot in situations where an unknown problem is hindering development \cite{motivation}. [CITE] To promote this, another particular addition could be made to the stand-ups--'what do I want to learn today'. This would briefly shift focus from the project to the individual, and gives more knowledgeable students to an opportunity to autonomously volunteer to help.
+% How to improve the skill gap issue
+
+Despite a burden of teaching, such opportunity to teach others may be taken more often than one would expect. Active teaching is shown to make the teacher feel better about themselves \cite{activepassive}
+% Active-passive learning and peer learning
+
+"Only when group processes are made explicit can group activities can lead to enhanced learning" \cite{group2005} Scrum promotes a healthy combination of tasksetting and autonomy
+% Do do do dod odododo dsfddsbhghsdkg
+
+Learning doesn't stop at university [CITE], learning is ongoing etc [CITE]. A survey conducted between 2014-2015 discovered that of the top required skills for hiring a new employee, 'ability to learn while working' \cite{devstudy} was the most prevalent, with 48\% of game developers citing this in their Top 3 priorities.
+% Industry on learning, this could probably be moved
+
+Furthermore, despite the extrinsic goal's negative reputation so far, the game project itself has can often bring teams together by its ambition, uniqueness, etc[CITE]. This [puts Agile in a good place] where it says 'is the primary indicator of progress'.
+% Game bringing team members together. Cite more sources for game industry transfer?
+
+Identifying technical mistakes is a challenge to those who are unaware, and is mostly achieved purely through trial and error \cite{capstone}. 
+% About inexperienced groups are inexperienced, what's new?
+
+From an organisational perspective, arranging groups into a smaller ranges of past experience is shown to be beneficial from a motivational standpoint. A study from 2009 \cite{peerreview} amusingly discovered that while students prefer to learn from the experienced, in a blind experiment they found reviews from lesser experienced team members to be more useful.\cite{peerreview} However, conversely, heterogenous teams--teams varied in skill--are often seen among the most successful, but this depends on the team's ability to communicate. \cite{group2003} Therefore a focus should be put on communication, something which is already learned during practical application of the agile philosophy. Being in a heterogenous groupalso helps when wntering the game industry as a junior[REVISE AND CITE].
+% Interesting but inconclusive viewpoints on skill gaps
 
 \section{Conclusion}
+The agile workflow highly accomodates learning in a group environment and has several strengths, improving peers' employability, ability to learn in the workplace and communication skills. However, this is subject to vital elements of human psychology, particularly motivation and attitude, as well as skill gaps which can create tensions in the workplace. Agile philosophy mitigates these through the promotion of autonomy and strong communication of work progress, but these effects could, dependent on personalities, be further mitigated by implementing a slightly more education-specific tailoring of the Scrum framework, promoting application of pair programming, and accomodating a self-critical focus on bettering oneself throughout the process.
+% Key points, weaknesses and areas of potential improvement
 
-Write your conclusion here. The conclusion should do more than summarise the essay, making clear the contribution of the work and highlighting key points, limitations, and outstanding questions. It should not introduce any new content or information.
+As a relatively new teaching area, there is much to be explored in the making of an ideal learning environment for aspiring game developers. Outstanding questions particularly include whether there are better, more creative ways to further benefit the learning environment. There are many possible answers and no single solution. Regardless it stands that agile student team workflows will continue to improve over time through further iteration and self-reflection--very much agile in themselves.
+% Oustanding questions
 
-\bibliographystyle{ieeetran}
-\bibliography{references}
+\bibliography{references} 
+\bibliographystyle{ieeetr}
 
 \end{document}

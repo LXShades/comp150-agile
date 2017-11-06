@@ -1,0 +1,28 @@
+Appropriateness of Referenced Articles: ?/5% (ten articles, scholarly where appropriate)
+Relevance to and Focus on Research Question: ?/2.5%
+Depth of Insight into the Agile Philosophy: ?/15% (Significant depth agile, critical manifesto insight)
+Verifiability, specificability and accuracy of claims: ?/2.5%
+Adequace of Analysis of research articles: ?/15% (significant analysis)
+Adequace of Discussion on Transfer to Game Industry: ?/10% (relevant criticism of game dev practice, insight into pitfalls and defending solutions with evidence)
+References, academics etc appropriate: ?/5%
+Spelling and grammar: ?/2.5%
+Appropriateness of structure: ?/2.5%
+
+
+- Consider adding more pros to agile in general, citing sources
+- Consier adding more transfer to industry
+
+Quality of Learning With an Active Versus Passive Motivational Set
+https://www.researchgate.net/publication/233896880_Quality_of_Learning_With_an_Active_Versus_Passive_Motivational_Set
+
+Effective small group learning:
+https://www.researchgate.net/publication/46008074_Effective_small_group_learning_AMEE_Guide_No_48
+"It has long been known in social psychology that groups which reflect upon their learning processes are more likely to be more effective than those that focus solely on the task and groups in which members are cooperative rather than competitive are also more likely to be more effective (Bales 1970; Johnson & Johnson 1987)"
+
+The case for pair programming in the computer science classroom
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1921609&CFID=1002215313&CFTOKEN=64349172
+
+Currently addressed:
+- Principles (more critical insight?)
+- Peer learning (shuffle?)
+- 
