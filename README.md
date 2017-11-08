@@ -1,4 +1,4 @@
-# Final proposal
+﻿# Final proposal
 ## Question: How can agile philosophy maximise personal learning in a roleless creative game-development context?
 *As quoted by [Mr. Quote], iteration is a highly respected concept in the game industry, owing to the constant changing of approaches in pursuit of the highly dynamic and subjective goal of making a 'fun' game. [quote 'game never comes out the same']. This typically requires the adoption of a workflow that most suits iteration, such as the agile workflow, which places [derp] over [derpderp].  
 *In universities today, such as Falmouth (which btw is pretty great), agile development has been adopted as a key part of the practical game production assignments. But being an educational institution comes with the interesting task of not only producing games, but learning how to do it, somehow simultaneously. This raised my particular interest: should agile be chosen for not only production purposes, but for individual learning as well?  
@@ -155,6 +155,15 @@ https://www.researchgate.net/publication/287563281_Motivation_Personality_and_De
 Chosen for: To help backup my made up theories on human psychology with impressively structured peer-reviewed journal quotes.  
 *We have posited that people require three specific psycho-logical nutriments for healthy functioning: They need to feel *competent* in netoriating their external and internal environments; they need to experience relatedness to other people and groups; and they need to feel *autonomy* or self-determination with respect to their own behaviors and lives*  
 
+
+**Improving Teaching and Learning Through Reflection**
+http://www.emeraldinsight.com/doi/pdfplus/10.1108/JWAM-10-2015-003
+Chosen for: Insightful book on teaching and learning
+"Due to the current and future jobs market described above, where workers need to adapt to fit changing roles, continuous learning is required. Learning to learn is therefore a crucial skill (Bridgestock, 2014; Barr and Tagg, 1995)"  
+
+**The Scrum software development process for small teams**
+http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/854065/
+Chosen for: Go-to Scrum paper
 
 # Nonacademic sources
 ~~**Beyond Scrum: Lean and Kanban -- Gamasutra on agile's weakness further on in the dev cycle**~~
