@@ -22,6 +22,15 @@ https://www.researchgate.net/publication/46008074_Effective_small_group_learning
 The case for pair programming in the computer science classroom
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1921609&CFID=1002215313&CFTOKEN=64349172
 
+In contrast, [2] viewed design as a learning process in which the solution evolves through repetitive cycles of problem formulation, solution evaluation, and documentation. Designers use their own personal expanding knowledge to continually reframe the problem and devise an appropriate solution
+
+Hopefully everything I'm doing has to do with innovation:
+http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5716899/
+Chosen for: Creative process
+
+Managing the Development of Large Software Systems: Concepts and Techniques
+Chosen for: Paper on the waterfall model
+
 Currently addressed:
 - Principles (more critical insight?)
 - Peer learning (shuffle?)
