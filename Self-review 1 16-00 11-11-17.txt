@@ -1,0 +1,28 @@
+Comments:
+Keep:
+Reference to game industry in 'Why agile'
+Group work issues -- this is a fundamental question in this topic
+
+Change:
+Dash between 'timeframe' and 'contrast' needs adjusting
+The 'Why Agile' section might be a little long
+Perhaps shorten the introduction so that questions are asked but not answered til the rest of the essay.
+The comparison to waterfall could be shortened or moved to another paragraph addressing similar pitfalls?
+'A comparison to industry' clashes with the benefits of active learning. Consider adding a 'improvement' section with direct and brief links to industry.'
+'Identifying technical mistakes is a challenge to those who are unaware' - Cut for now, but this could squeeze into the issues of inexperienced members.
+'Peer review' - this is too long, cut for now, but could go into the Agile section or be explained as a reason not to exclude inexperienced team members.
+
+Add:
+Look at personality differences? Find evidence of effects in industry
+
+Mark estimates:
+Articles are relevant: 3/5%
+Focus: 2/2.5% - Much focus on question
+Depth of agile insight: 7/15% - Not much focus on agile
+Specificity, verifiability and accuracy: 1/2.5% - Decent backup, more reputable citations for free points!
+Adequacy of Analysis: 8%/15% - Personal analysis was quite deep, but not thoroughly reiterated in article; but should it be?
+Adequacy of transfer to the Game Industry: 6/10% - Some cited discussion on transfer to industry. Could cite more postmortems?
+Spelling and Grammar: 2/2.5% - Confident
+Appropriateness of Structure: 1.5/2.5% - Mildly confident
+
+Total estimated marks: 56.4%. Didn't consider that 80% > professional competency in this review, so cut 80% from 70.5. Will consider next time. Can't remember the grade for this result.
